@@ -1,7 +1,7 @@
-name: "jaxson_freund"
+name: jaxson_freund
 output_dir: ../docs
 navbar:
-  title: "jaxson_freund"
+  title: jaxson_freund
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fab fa-github
+    text: Source code
+    href: https://github.com/jaxmaddix/jaxson_freund
 output:
   workflowr::wflow_html:
     toc: yes
