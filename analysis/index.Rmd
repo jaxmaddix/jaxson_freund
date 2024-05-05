@@ -9,3 +9,5 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+Click on this [link](quadrat_analysis.html) to see my results.
